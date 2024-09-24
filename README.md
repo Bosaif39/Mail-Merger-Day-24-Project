@@ -1,4 +1,4 @@
-# **Mail Merge Invitation Script**
+# **Mail Merge Script**
 
 ## **Overview**
 This is the Day 24 project from the 100 Days of Code: The Complete Python Pro Bootcamp. This Python script automates the creation of personalized invitation letters. By merging a list of names with a template letter, the script generates individual letters for each invitee, saving them as separate text files. This is particularly useful for sending custom invitations, announcements, or formal communications.
