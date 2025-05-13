@@ -65,5 +65,4 @@ This script is highly adaptable to different use cases, not just for invitations
 
 
 ## **Requirements**
-- **Python Version**: Python 3.x
-- **Modules**: No external modules are required; the script uses Python's built-in `open()` and `read()` methods for file handling.
+- Python 3.x
